@@ -5,6 +5,7 @@
 .env.php
 .env.sh
 .env
+.env.example
 
 # COMPOSER
 /vendor
